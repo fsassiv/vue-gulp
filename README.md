@@ -8,11 +8,11 @@
 # install dependencies
 npm install
 
-# executar "npm run build" logo apos o npm install
+# run "npm run build" right after "run npm install" to create the dist folder
+npm run build
 
 # serve with hot reload at localhost:8080
 npm run dev
-
 
 # build for production with minification
 npm run build
